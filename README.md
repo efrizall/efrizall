@@ -1,4 +1,4 @@
-Assalamualaikuh, Efrizal here 👋
+Assalamualaikum, Efrizal here 👋
 
 Web Developer with 1 year of experience in different php web framework.
 
